@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-06T16:25:08.702661",
+    "last_updated": "2026-03-06T17:05:24.015130",
     "total_snapshots": 2,
     "date_range": {
       "start": "2026-03-05",
@@ -65,12 +65,12 @@
     },
     {
       "date": "2026-03-06",
-      "total_jobs": 1240,
+      "total_jobs": 1242,
       "categories": {},
       "tiers": {
-        "other": 385,
         "unicorn": 692,
-        "faang_plus": 163
+        "other": 389,
+        "faang_plus": 161
       },
       "top_companies": [
         {
@@ -79,7 +79,7 @@
         },
         {
           "company": "Anduril",
-          "jobs": 131
+          "jobs": 130
         },
         {
           "company": "Waymo",
@@ -98,11 +98,11 @@
           "jobs": 28
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 24
+          "company": "Oscar Health",
+          "jobs": 22
         },
         {
-          "company": "Oscar Health",
+          "company": "Northrop Grumman",
           "jobs": 22
         },
         {
@@ -110,13 +110,13 @@
           "jobs": 20
         },
         {
-          "company": "Boeing",
-          "jobs": 20
+          "company": "Stripe",
+          "jobs": 19
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 5.59,
-      "timestamp": "2026-03-06T16:25:08.702489"
+      "unique_companies": 223,
+      "avg_jobs_per_company": 5.57,
+      "timestamp": "2026-03-06T17:05:24.014968"
     }
   ]
 }
