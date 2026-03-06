@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-06T19:36:32.706815",
+    "last_updated": "2026-03-06T20:00:35.404562",
     "total_snapshots": 2,
     "date_range": {
       "start": "2026-03-05",
@@ -65,12 +65,12 @@
     },
     {
       "date": "2026-03-06",
-      "total_jobs": 1252,
+      "total_jobs": 1257,
       "categories": {},
       "tiers": {
+        "faang_plus": 160,
         "unicorn": 693,
-        "other": 402,
-        "faang_plus": 157
+        "other": 404
       },
       "top_companies": [
         {
@@ -99,7 +99,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 24
+          "jobs": 25
         },
         {
           "company": "Oscar Health",
@@ -114,9 +114,9 @@
           "jobs": 19
         }
       ],
-      "unique_companies": 234,
-      "avg_jobs_per_company": 5.35,
-      "timestamp": "2026-03-06T19:36:32.706574"
+      "unique_companies": 232,
+      "avg_jobs_per_company": 5.42,
+      "timestamp": "2026-03-06T20:00:35.404407"
     }
   ]
 }
