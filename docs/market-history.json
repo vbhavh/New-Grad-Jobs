@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-10T17:09:53.691254",
+    "last_updated": "2026-03-10T18:00:30.363833",
     "total_snapshots": 6,
     "date_range": {
       "start": "2026-03-05",
@@ -285,12 +285,12 @@
     },
     {
       "date": "2026-03-10",
-      "total_jobs": 1169,
+      "total_jobs": 1183,
       "categories": {},
       "tiers": {
-        "unicorn": 682,
-        "other": 350,
-        "faang_plus": 137
+        "unicorn": 683,
+        "other": 362,
+        "faang_plus": 138
       },
       "top_companies": [
         {
@@ -314,8 +314,12 @@
           "jobs": 27
         },
         {
+          "company": "Boeing",
+          "jobs": 24
+        },
+        {
           "company": "Northrop Grumman",
-          "jobs": 26
+          "jobs": 24
         },
         {
           "company": "Oscar Health",
@@ -326,17 +330,13 @@
           "jobs": 22
         },
         {
-          "company": "Boeing",
-          "jobs": 21
-        },
-        {
           "company": "MongoDB",
           "jobs": 20
         }
       ],
-      "unique_companies": 210,
-      "avg_jobs_per_company": 5.57,
-      "timestamp": "2026-03-10T17:09:53.691041"
+      "unique_companies": 212,
+      "avg_jobs_per_company": 5.58,
+      "timestamp": "2026-03-10T18:00:30.363614"
     }
   ]
 }
