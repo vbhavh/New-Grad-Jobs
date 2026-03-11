@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-11T17:38:14.222387",
+    "last_updated": "2026-03-11T18:33:15.105425",
     "total_snapshots": 7,
     "date_range": {
       "start": "2026-03-05",
@@ -340,12 +340,12 @@
     },
     {
       "date": "2026-03-11",
-      "total_jobs": 1181,
+      "total_jobs": 1198,
       "categories": {},
       "tiers": {
         "unicorn": 672,
-        "other": 359,
-        "faang_plus": 150
+        "other": 381,
+        "faang_plus": 145
       },
       "top_companies": [
         {
@@ -358,7 +358,7 @@
         },
         {
           "company": "Waymo",
-          "jobs": 70
+          "jobs": 69
         },
         {
           "company": "Anthropic",
@@ -370,7 +370,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 27
+          "jobs": 25
         },
         {
           "company": "Dropbox",
@@ -381,17 +381,17 @@
           "jobs": 20
         },
         {
-          "company": "Oscar Health",
-          "jobs": 19
+          "company": "Boeing",
+          "jobs": 20
         },
         {
-          "company": "Boeing",
+          "company": "Oscar Health",
           "jobs": 19
         }
       ],
-      "unique_companies": 210,
-      "avg_jobs_per_company": 5.62,
-      "timestamp": "2026-03-11T17:38:14.222164"
+      "unique_companies": 211,
+      "avg_jobs_per_company": 5.68,
+      "timestamp": "2026-03-11T18:33:15.105189"
     }
   ]
 }
