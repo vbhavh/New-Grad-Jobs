@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-11T02:27:03.702253",
+    "last_updated": "2026-03-11T04:23:19.940562",
     "total_snapshots": 7,
     "date_range": {
       "start": "2026-03-05",
@@ -340,12 +340,12 @@
     },
     {
       "date": "2026-03-11",
-      "total_jobs": 1210,
+      "total_jobs": 1205,
       "categories": {},
       "tiers": {
-        "unicorn": 678,
-        "other": 377,
-        "faang_plus": 155
+        "unicorn": 676,
+        "other": 375,
+        "faang_plus": 154
       },
       "top_companies": [
         {
@@ -354,7 +354,7 @@
         },
         {
           "company": "Anduril",
-          "jobs": 132
+          "jobs": 131
         },
         {
           "company": "Waymo",
@@ -365,15 +365,15 @@
           "jobs": 43
         },
         {
-          "company": "Accenture",
-          "jobs": 30
-        },
-        {
           "company": "Northrop Grumman",
           "jobs": 28
         },
         {
           "company": "Lyft",
+          "jobs": 27
+        },
+        {
+          "company": "Accenture",
           "jobs": 27
         },
         {
@@ -389,9 +389,9 @@
           "jobs": 20
         }
       ],
-      "unique_companies": 209,
+      "unique_companies": 208,
       "avg_jobs_per_company": 5.79,
-      "timestamp": "2026-03-11T02:27:03.701982"
+      "timestamp": "2026-03-11T04:23:19.940317"
     }
   ]
 }
