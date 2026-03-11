@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-11T04:23:19.940562",
+    "last_updated": "2026-03-11T05:21:52.928807",
     "total_snapshots": 7,
     "date_range": {
       "start": "2026-03-05",
@@ -340,12 +340,12 @@
     },
     {
       "date": "2026-03-11",
-      "total_jobs": 1205,
+      "total_jobs": 1199,
       "categories": {},
       "tiers": {
-        "unicorn": 676,
-        "other": 375,
-        "faang_plus": 154
+        "unicorn": 675,
+        "other": 373,
+        "faang_plus": 151
       },
       "top_companies": [
         {
@@ -374,14 +374,14 @@
         },
         {
           "company": "Accenture",
-          "jobs": 27
-        },
-        {
-          "company": "Boeing",
-          "jobs": 23
+          "jobs": 25
         },
         {
           "company": "Dropbox",
+          "jobs": 22
+        },
+        {
+          "company": "Boeing",
           "jobs": 22
         },
         {
@@ -389,9 +389,9 @@
           "jobs": 20
         }
       ],
-      "unique_companies": 208,
-      "avg_jobs_per_company": 5.79,
-      "timestamp": "2026-03-11T04:23:19.940317"
+      "unique_companies": 203,
+      "avg_jobs_per_company": 5.91,
+      "timestamp": "2026-03-11T05:21:52.928591"
     }
   ]
 }
