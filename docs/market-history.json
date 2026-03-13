@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T12:02:00.933116",
+    "last_updated": "2026-03-13T12:55:12.795117",
     "total_snapshots": 9,
     "date_range": {
       "start": "2026-03-05",
@@ -450,12 +450,12 @@
     },
     {
       "date": "2026-03-13",
-      "total_jobs": 1194,
+      "total_jobs": 1191,
       "categories": {},
       "tiers": {
-        "unicorn": 677,
+        "unicorn": 675,
         "faang_plus": 143,
-        "other": 374
+        "other": 373
       },
       "top_companies": [
         {
@@ -487,21 +487,21 @@
           "jobs": 22
         },
         {
-          "company": "MongoDB",
-          "jobs": 18
-        },
-        {
           "company": "Affirm",
           "jobs": 18
         },
         {
           "company": "Oscar Health",
           "jobs": 18
+        },
+        {
+          "company": "Stripe",
+          "jobs": 17
         }
       ],
-      "unique_companies": 225,
-      "avg_jobs_per_company": 5.31,
-      "timestamp": "2026-03-13T12:02:00.932895"
+      "unique_companies": 224,
+      "avg_jobs_per_company": 5.32,
+      "timestamp": "2026-03-13T12:55:12.794899"
     }
   ]
 }
