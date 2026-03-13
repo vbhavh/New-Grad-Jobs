@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T20:35:51.367713",
+    "last_updated": "2026-03-13T21:05:20.416201",
     "total_snapshots": 9,
     "date_range": {
       "start": "2026-03-05",
@@ -450,17 +450,17 @@
     },
     {
       "date": "2026-03-13",
-      "total_jobs": 1180,
+      "total_jobs": 1181,
       "categories": {},
       "tiers": {
-        "other": 368,
-        "unicorn": 680,
-        "faang_plus": 132
+        "unicorn": 682,
+        "other": 370,
+        "faang_plus": 129
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 156
+          "jobs": 158
         },
         {
           "company": "Anduril",
@@ -468,7 +468,7 @@
         },
         {
           "company": "Waymo",
-          "jobs": 70
+          "jobs": 69
         },
         {
           "company": "Anthropic",
@@ -495,13 +495,13 @@
           "jobs": 18
         },
         {
-          "company": "Stripe",
-          "jobs": 17
+          "company": "MetLife",
+          "jobs": 18
         }
       ],
-      "unique_companies": 227,
-      "avg_jobs_per_company": 5.2,
-      "timestamp": "2026-03-13T20:35:51.367469"
+      "unique_companies": 218,
+      "avg_jobs_per_company": 5.42,
+      "timestamp": "2026-03-13T21:05:20.415971"
     }
   ]
 }
