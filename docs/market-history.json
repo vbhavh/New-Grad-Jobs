@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T22:02:44.814745",
+    "last_updated": "2026-03-13T22:30:10.615076",
     "total_snapshots": 9,
     "date_range": {
       "start": "2026-03-05",
@@ -450,12 +450,12 @@
     },
     {
       "date": "2026-03-13",
-      "total_jobs": 1188,
+      "total_jobs": 1187,
       "categories": {},
       "tiers": {
+        "other": 376,
         "unicorn": 681,
-        "faang_plus": 127,
-        "other": 380
+        "faang_plus": 130
       },
       "top_companies": [
         {
@@ -483,6 +483,10 @@
           "jobs": 25
         },
         {
+          "company": "Boeing",
+          "jobs": 20
+        },
+        {
           "company": "Affirm",
           "jobs": 18
         },
@@ -493,15 +497,11 @@
         {
           "company": "MetLife",
           "jobs": 18
-        },
-        {
-          "company": "Boeing",
-          "jobs": 18
         }
       ],
       "unique_companies": 229,
-      "avg_jobs_per_company": 5.19,
-      "timestamp": "2026-03-13T22:02:44.814558"
+      "avg_jobs_per_company": 5.18,
+      "timestamp": "2026-03-13T22:30:10.614859"
     }
   ]
 }
