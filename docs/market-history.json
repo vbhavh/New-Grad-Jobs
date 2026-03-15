@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-15T07:55:35.318057",
+    "last_updated": "2026-03-15T08:24:55.014563",
     "total_snapshots": 11,
     "date_range": {
       "start": "2026-03-05",
@@ -560,12 +560,12 @@
     },
     {
       "date": "2026-03-15",
-      "total_jobs": 1188,
+      "total_jobs": 1201,
       "categories": {},
       "tiers": {
-        "other": 388,
+        "other": 399,
         "unicorn": 675,
-        "faang_plus": 125
+        "faang_plus": 127
       },
       "top_companies": [
         {
@@ -597,21 +597,21 @@
           "jobs": 25
         },
         {
+          "company": "Boeing",
+          "jobs": 19
+        },
+        {
           "company": "Affirm",
           "jobs": 18
         },
         {
           "company": "Oscar Health",
           "jobs": 18
-        },
-        {
-          "company": "MetLife",
-          "jobs": 18
         }
       ],
-      "unique_companies": 205,
-      "avg_jobs_per_company": 5.8,
-      "timestamp": "2026-03-15T07:55:35.317785"
+      "unique_companies": 213,
+      "avg_jobs_per_company": 5.64,
+      "timestamp": "2026-03-15T08:24:55.014147"
     }
   ]
 }
