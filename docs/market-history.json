@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-16T19:41:04.231936",
+    "last_updated": "2026-03-16T20:06:34.379193",
     "total_snapshots": 12,
     "date_range": {
       "start": "2026-03-05",
@@ -615,12 +615,12 @@
     },
     {
       "date": "2026-03-16",
-      "total_jobs": 1195,
+      "total_jobs": 1196,
       "categories": {},
       "tiers": {
-        "other": 399,
-        "unicorn": 675,
-        "faang_plus": 121
+        "faang_plus": 121,
+        "other": 400,
+        "unicorn": 675
       },
       "top_companies": [
         {
@@ -649,7 +649,7 @@
         },
         {
           "company": "Boeing",
-          "jobs": 22
+          "jobs": 23
         },
         {
           "company": "Accenture",
@@ -664,9 +664,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 225,
-      "avg_jobs_per_company": 5.31,
-      "timestamp": "2026-03-16T19:41:04.231576"
+      "unique_companies": 224,
+      "avg_jobs_per_company": 5.34,
+      "timestamp": "2026-03-16T20:06:34.378340"
     }
   ]
 }
