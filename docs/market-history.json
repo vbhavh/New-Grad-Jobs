@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-16T06:07:11.974294",
+    "last_updated": "2026-03-16T07:47:44.186445",
     "total_snapshots": 12,
     "date_range": {
       "start": "2026-03-05",
@@ -615,12 +615,12 @@
     },
     {
       "date": "2026-03-16",
-      "total_jobs": 1213,
+      "total_jobs": 1207,
       "categories": {},
       "tiers": {
-        "other": 413,
-        "unicorn": 674,
-        "faang_plus": 126
+        "other": 408,
+        "unicorn": 675,
+        "faang_plus": 124
       },
       "top_companies": [
         {
@@ -637,7 +637,7 @@
         },
         {
           "company": "Anthropic",
-          "jobs": 42
+          "jobs": 43
         },
         {
           "company": "Lyft",
@@ -656,17 +656,17 @@
           "jobs": 18
         },
         {
-          "company": "Accenture",
+          "company": "MetLife",
           "jobs": 18
         },
         {
-          "company": "MetLife",
-          "jobs": 18
+          "company": "Stripe",
+          "jobs": 17
         }
       ],
       "unique_companies": 224,
-      "avg_jobs_per_company": 5.42,
-      "timestamp": "2026-03-16T06:07:11.973809"
+      "avg_jobs_per_company": 5.39,
+      "timestamp": "2026-03-16T07:47:44.186032"
     }
   ]
 }
