@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-17T07:43:25.204362",
+    "last_updated": "2026-03-17T08:31:09.730231",
     "total_snapshots": 13,
     "date_range": {
       "start": "2026-03-05",
@@ -670,12 +670,12 @@
     },
     {
       "date": "2026-03-17",
-      "total_jobs": 1205,
+      "total_jobs": 1177,
       "categories": {},
       "tiers": {
         "unicorn": 681,
-        "other": 398,
-        "faang_plus": 126
+        "other": 367,
+        "faang_plus": 129
       },
       "top_companies": [
         {
@@ -695,12 +695,8 @@
           "jobs": 41
         },
         {
-          "company": "Accenture",
-          "jobs": 31
-        },
-        {
           "company": "Boeing",
-          "jobs": 26
+          "jobs": 29
         },
         {
           "company": "Lyft",
@@ -717,11 +713,15 @@
         {
           "company": "Affirm",
           "jobs": 18
+        },
+        {
+          "company": "Oscar Health",
+          "jobs": 18
         }
       ],
-      "unique_companies": 218,
-      "avg_jobs_per_company": 5.53,
-      "timestamp": "2026-03-17T07:43:25.204034"
+      "unique_companies": 217,
+      "avg_jobs_per_company": 5.42,
+      "timestamp": "2026-03-17T08:31:09.729970"
     }
   ]
 }
