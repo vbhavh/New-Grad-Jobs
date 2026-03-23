@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-23T22:58:22.373716",
+    "last_updated": "2026-03-23T23:22:57.959128",
     "total_snapshots": 19,
     "date_range": {
       "start": "2026-03-05",
@@ -1000,12 +1000,12 @@
     },
     {
       "date": "2026-03-23",
-      "total_jobs": 1160,
+      "total_jobs": 1163,
       "categories": {},
       "tiers": {
-        "faang_plus": 134,
-        "other": 358,
-        "unicorn": 668
+        "unicorn": 667,
+        "faang_plus": 131,
+        "other": 365
       },
       "top_companies": [
         {
@@ -1026,7 +1026,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 29
+          "jobs": 30
         },
         {
           "company": "ClickHouse",
@@ -1049,9 +1049,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 217,
-      "avg_jobs_per_company": 5.35,
-      "timestamp": "2026-03-23T22:58:22.373425"
+      "unique_companies": 222,
+      "avg_jobs_per_company": 5.24,
+      "timestamp": "2026-03-23T23:22:57.958841"
     }
   ]
 }
