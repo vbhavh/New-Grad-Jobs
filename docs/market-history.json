@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-23T18:04:02.075134",
+    "last_updated": "2026-03-23T19:00:22.246405",
     "total_snapshots": 19,
     "date_range": {
       "start": "2026-03-05",
@@ -1000,12 +1000,12 @@
     },
     {
       "date": "2026-03-23",
-      "total_jobs": 1160,
+      "total_jobs": 1157,
       "categories": {},
       "tiers": {
-        "other": 362,
+        "faang_plus": 129,
         "unicorn": 667,
-        "faang_plus": 131
+        "other": 361
       },
       "top_companies": [
         {
@@ -1029,12 +1029,12 @@
           "jobs": 27
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 27
+          "company": "Lyft",
+          "jobs": 26
         },
         {
-          "company": "Lyft",
-          "jobs": 24
+          "company": "Northrop Grumman",
+          "jobs": 26
         },
         {
           "company": "Dropbox",
@@ -1049,9 +1049,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 224,
-      "avg_jobs_per_company": 5.18,
-      "timestamp": "2026-03-23T18:04:02.074873"
+      "unique_companies": 222,
+      "avg_jobs_per_company": 5.21,
+      "timestamp": "2026-03-23T19:00:22.246100"
     }
   ]
 }
