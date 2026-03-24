@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-24T17:16:24.651180",
+    "last_updated": "2026-03-24T18:10:48.029709",
     "total_snapshots": 20,
     "date_range": {
       "start": "2026-03-05",
@@ -1055,17 +1055,17 @@
     },
     {
       "date": "2026-03-24",
-      "total_jobs": 1163,
+      "total_jobs": 1183,
       "categories": {},
       "tiers": {
-        "other": 354,
-        "unicorn": 671,
-        "faang_plus": 138
+        "unicorn": 672,
+        "other": 377,
+        "faang_plus": 134
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 156
+          "jobs": 157
         },
         {
           "company": "Anduril",
@@ -1077,14 +1077,18 @@
         },
         {
           "company": "Anthropic",
-          "jobs": 40
-        },
-        {
-          "company": "Northrop Grumman",
-          "jobs": 32
+          "jobs": 39
         },
         {
           "company": "ClickHouse",
+          "jobs": 27
+        },
+        {
+          "company": "Accenture",
+          "jobs": 27
+        },
+        {
+          "company": "Northrop Grumman",
           "jobs": 27
         },
         {
@@ -1097,16 +1101,12 @@
         },
         {
           "company": "Affirm",
-          "jobs": 20
-        },
-        {
-          "company": "Reddit",
-          "jobs": 18
+          "jobs": 21
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 5.24,
-      "timestamp": "2026-03-24T17:16:24.650888"
+      "unique_companies": 227,
+      "avg_jobs_per_company": 5.21,
+      "timestamp": "2026-03-24T18:10:48.029300"
     }
   ]
 }
