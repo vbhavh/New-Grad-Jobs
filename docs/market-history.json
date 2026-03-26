@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-26T22:03:41.774285",
+    "last_updated": "2026-03-26T22:35:13.325932",
     "total_snapshots": 22,
     "date_range": {
       "start": "2026-03-05",
@@ -1165,12 +1165,12 @@
     },
     {
       "date": "2026-03-26",
-      "total_jobs": 1202,
+      "total_jobs": 1198,
       "categories": {},
       "tiers": {
-        "other": 349,
-        "unicorn": 690,
-        "faang_plus": 163
+        "unicorn": 691,
+        "faang_plus": 164,
+        "other": 343
       },
       "top_companies": [
         {
@@ -1207,16 +1207,16 @@
         },
         {
           "company": "MongoDB",
-          "jobs": 22
+          "jobs": 21
         },
         {
           "company": "Dropbox",
           "jobs": 21
         }
       ],
-      "unique_companies": 226,
-      "avg_jobs_per_company": 5.32,
-      "timestamp": "2026-03-26T22:03:41.772948"
+      "unique_companies": 224,
+      "avg_jobs_per_company": 5.35,
+      "timestamp": "2026-03-26T22:35:13.325535"
     }
   ]
 }
