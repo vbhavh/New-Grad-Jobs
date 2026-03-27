@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-27T20:54:37.762506",
+    "last_updated": "2026-03-27T21:25:31.972035",
     "total_snapshots": 23,
     "date_range": {
       "start": "2026-03-05",
@@ -1220,12 +1220,12 @@
     },
     {
       "date": "2026-03-27",
-      "total_jobs": 1198,
+      "total_jobs": 1203,
       "categories": {},
       "tiers": {
-        "unicorn": 687,
-        "other": 356,
-        "faang_plus": 155
+        "unicorn": 690,
+        "other": 359,
+        "faang_plus": 154
       },
       "top_companies": [
         {
@@ -1242,11 +1242,7 @@
         },
         {
           "company": "Anthropic",
-          "jobs": 41
-        },
-        {
-          "company": "Accenture",
-          "jobs": 29
+          "jobs": 42
         },
         {
           "company": "Northrop Grumman",
@@ -1254,7 +1250,7 @@
         },
         {
           "company": "Lyft",
-          "jobs": 25
+          "jobs": 26
         },
         {
           "company": "Boeing",
@@ -1267,11 +1263,15 @@
         {
           "company": "MongoDB",
           "jobs": 21
+        },
+        {
+          "company": "Accenture",
+          "jobs": 21
         }
       ],
-      "unique_companies": 216,
-      "avg_jobs_per_company": 5.55,
-      "timestamp": "2026-03-27T20:54:37.762051"
+      "unique_companies": 219,
+      "avg_jobs_per_company": 5.49,
+      "timestamp": "2026-03-27T21:25:31.971610"
     }
   ]
 }
