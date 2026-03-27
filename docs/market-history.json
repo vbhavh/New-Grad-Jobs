@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-27T22:21:05.273042",
+    "last_updated": "2026-03-27T22:57:04.817551",
     "total_snapshots": 23,
     "date_range": {
       "start": "2026-03-05",
@@ -1220,17 +1220,17 @@
     },
     {
       "date": "2026-03-27",
-      "total_jobs": 1199,
+      "total_jobs": 1185,
       "categories": {},
       "tiers": {
-        "other": 356,
-        "unicorn": 688,
-        "faang_plus": 155
+        "unicorn": 691,
+        "other": 341,
+        "faang_plus": 153
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 157
+          "jobs": 160
         },
         {
           "company": "Anduril",
@@ -1253,11 +1253,11 @@
           "jobs": 26
         },
         {
-          "company": "Boeing",
-          "jobs": 25
+          "company": "ClickHouse",
+          "jobs": 23
         },
         {
-          "company": "ClickHouse",
+          "company": "Boeing",
           "jobs": 23
         },
         {
@@ -1269,9 +1269,9 @@
           "jobs": 20
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 5.45,
-      "timestamp": "2026-03-27T22:21:05.272621"
+      "unique_companies": 213,
+      "avg_jobs_per_company": 5.56,
+      "timestamp": "2026-03-27T22:57:04.817095"
     }
   ]
 }
