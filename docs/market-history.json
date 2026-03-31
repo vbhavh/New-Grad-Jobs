@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-31T22:10:10.676710",
+    "last_updated": "2026-03-31T22:51:44.303548",
     "total_snapshots": 27,
     "date_range": {
       "start": "2026-03-05",
@@ -1440,12 +1440,12 @@
     },
     {
       "date": "2026-03-31",
-      "total_jobs": 1206,
+      "total_jobs": 1187,
       "categories": {},
       "tiers": {
         "unicorn": 674,
-        "other": 385,
-        "faang_plus": 147
+        "faang_plus": 142,
+        "other": 371
       },
       "top_companies": [
         {
@@ -1458,7 +1458,7 @@
         },
         {
           "company": "Waymo",
-          "jobs": 64
+          "jobs": 63
         },
         {
           "company": "Anthropic",
@@ -1477,21 +1477,21 @@
           "jobs": 26
         },
         {
-          "company": "Boeing",
-          "jobs": 24
-        },
-        {
           "company": "ClickHouse",
           "jobs": 23
         },
         {
           "company": "Affirm",
           "jobs": 20
+        },
+        {
+          "company": "Accenture",
+          "jobs": 20
         }
       ],
-      "unique_companies": 226,
-      "avg_jobs_per_company": 5.34,
-      "timestamp": "2026-03-31T22:10:10.675152"
+      "unique_companies": 211,
+      "avg_jobs_per_company": 5.63,
+      "timestamp": "2026-03-31T22:51:44.303117"
     }
   ]
 }
