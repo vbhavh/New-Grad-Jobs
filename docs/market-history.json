@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-31T05:33:15.116839",
+    "last_updated": "2026-03-31T06:52:37.772198",
     "total_snapshots": 27,
     "date_range": {
       "start": "2026-03-05",
@@ -1440,12 +1440,12 @@
     },
     {
       "date": "2026-03-31",
-      "total_jobs": 1162,
+      "total_jobs": 1170,
       "categories": {},
       "tiers": {
-        "unicorn": 686,
-        "other": 331,
-        "faang_plus": 145
+        "unicorn": 685,
+        "other": 343,
+        "faang_plus": 142
       },
       "top_companies": [
         {
@@ -1469,6 +1469,10 @@
           "jobs": 31
         },
         {
+          "company": "NTT DATA",
+          "jobs": 30
+        },
+        {
           "company": "Lyft",
           "jobs": 27
         },
@@ -1483,15 +1487,11 @@
         {
           "company": "Affirm",
           "jobs": 21
-        },
-        {
-          "company": "MongoDB",
-          "jobs": 19
         }
       ],
-      "unique_companies": 206,
-      "avg_jobs_per_company": 5.64,
-      "timestamp": "2026-03-31T05:33:15.116483"
+      "unique_companies": 202,
+      "avg_jobs_per_company": 5.79,
+      "timestamp": "2026-03-31T06:52:37.771869"
     }
   ]
 }
