@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-31T08:54:06.288886",
+    "last_updated": "2026-03-31T09:52:21.845230",
     "total_snapshots": 27,
     "date_range": {
       "start": "2026-03-05",
@@ -1440,12 +1440,12 @@
     },
     {
       "date": "2026-03-31",
-      "total_jobs": 1202,
+      "total_jobs": 1193,
       "categories": {},
       "tiers": {
+        "faang_plus": 148,
         "unicorn": 682,
-        "other": 374,
-        "faang_plus": 146
+        "other": 363
       },
       "top_companies": [
         {
@@ -1463,10 +1463,6 @@
         {
           "company": "Anthropic",
           "jobs": 43
-        },
-        {
-          "company": null,
-          "jobs": 34
         },
         {
           "company": "NTT DATA",
@@ -1487,11 +1483,15 @@
         {
           "company": "Affirm",
           "jobs": 20
+        },
+        {
+          "company": "Dropbox",
+          "jobs": 19
         }
       ],
-      "unique_companies": 206,
-      "avg_jobs_per_company": 5.83,
-      "timestamp": "2026-03-31T08:54:06.288481"
+      "unique_companies": 209,
+      "avg_jobs_per_company": 5.71,
+      "timestamp": "2026-03-31T09:52:21.844790"
     }
   ]
 }
