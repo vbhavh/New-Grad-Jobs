@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-01T14:06:26.160499",
+    "last_updated": "2026-04-01T15:17:46.621762",
     "total_snapshots": 28,
     "date_range": {
       "start": "2026-03-05",
@@ -1495,12 +1495,12 @@
     },
     {
       "date": "2026-04-01",
-      "total_jobs": 1176,
+      "total_jobs": 1173,
       "categories": {},
       "tiers": {
-        "unicorn": 672,
-        "other": 366,
-        "faang_plus": 138
+        "other": 373,
+        "unicorn": 664,
+        "faang_plus": 136
       },
       "top_companies": [
         {
@@ -1509,7 +1509,7 @@
         },
         {
           "company": "Anduril",
-          "jobs": 140
+          "jobs": 141
         },
         {
           "company": "Waymo",
@@ -1524,19 +1524,19 @@
           "jobs": 26
         },
         {
-          "company": "NTT DATA",
-          "jobs": 25
-        },
-        {
           "company": "Northrop Grumman",
           "jobs": 25
         },
         {
-          "company": "ClickHouse",
-          "jobs": 23
+          "company": "Boeing",
+          "jobs": 25
         },
         {
-          "company": "Boeing",
+          "company": "NTT DATA",
+          "jobs": 24
+        },
+        {
+          "company": "ClickHouse",
           "jobs": 23
         },
         {
@@ -1544,9 +1544,9 @@
           "jobs": 20
         }
       ],
-      "unique_companies": 211,
-      "avg_jobs_per_company": 5.57,
-      "timestamp": "2026-04-01T14:06:26.160030"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 5.48,
+      "timestamp": "2026-04-01T15:17:46.621293"
     }
   ]
 }
