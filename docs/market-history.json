@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-02T22:04:59.926563",
+    "last_updated": "2026-04-02T22:39:51.096106",
     "total_snapshots": 29,
     "date_range": {
       "start": "2026-03-05",
@@ -1550,12 +1550,12 @@
     },
     {
       "date": "2026-04-02",
-      "total_jobs": 1183,
+      "total_jobs": 1161,
       "categories": {},
       "tiers": {
-        "other": 410,
-        "unicorn": 656,
-        "faang_plus": 117
+        "other": 392,
+        "unicorn": 655,
+        "faang_plus": 114
       },
       "top_companies": [
         {
@@ -1572,18 +1572,18 @@
         },
         {
           "company": "Anthropic",
-          "jobs": 41
+          "jobs": 40
         },
         {
           "company": "Lyft",
           "jobs": 25
         },
         {
-          "company": "Accenture",
-          "jobs": 24
+          "company": "ClickHouse",
+          "jobs": 23
         },
         {
-          "company": "ClickHouse",
+          "company": "Accenture",
           "jobs": 23
         },
         {
@@ -1591,17 +1591,17 @@
           "jobs": 23
         },
         {
-          "company": "Boeing",
-          "jobs": 22
+          "company": "Affirm",
+          "jobs": 20
         },
         {
-          "company": "Affirm",
+          "company": "Boeing",
           "jobs": 20
         }
       ],
-      "unique_companies": 213,
-      "avg_jobs_per_company": 5.55,
-      "timestamp": "2026-04-02T22:04:59.926072"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 5.43,
+      "timestamp": "2026-04-02T22:39:51.095735"
     }
   ]
 }
