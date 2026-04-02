@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-02T12:06:58.550192",
+    "last_updated": "2026-04-02T13:51:25.797337",
     "total_snapshots": 29,
     "date_range": {
       "start": "2026-03-05",
@@ -1550,12 +1550,12 @@
     },
     {
       "date": "2026-04-02",
-      "total_jobs": 1143,
+      "total_jobs": 1134,
       "categories": {},
       "tiers": {
-        "faang_plus": 127,
-        "other": 362,
-        "unicorn": 654
+        "unicorn": 654,
+        "other": 355,
+        "faang_plus": 125
       },
       "top_companies": [
         {
@@ -1579,15 +1579,15 @@
           "jobs": 26
         },
         {
-          "company": "Boeing",
-          "jobs": 25
-        },
-        {
           "company": "ClickHouse",
           "jobs": 23
         },
         {
           "company": "NTT DATA",
+          "jobs": 23
+        },
+        {
+          "company": "Boeing",
           "jobs": 23
         },
         {
@@ -1599,9 +1599,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 210,
-      "avg_jobs_per_company": 5.44,
-      "timestamp": "2026-04-02T12:06:58.549823"
+      "unique_companies": 205,
+      "avg_jobs_per_company": 5.53,
+      "timestamp": "2026-04-02T13:51:25.796967"
     }
   ]
 }
