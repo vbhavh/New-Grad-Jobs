@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T12:06:54.936671",
+    "last_updated": "2026-04-03T13:26:45.891997",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 1188,
+      "total_jobs": 1154,
       "categories": {},
       "tiers": {
         "unicorn": 656,
-        "faang_plus": 120,
-        "other": 412
+        "faang_plus": 125,
+        "other": 373
       },
       "top_companies": [
         {
@@ -1642,21 +1642,21 @@
           "jobs": 22
         },
         {
-          "company": "CVS Health",
-          "jobs": 22
-        },
-        {
           "company": "Affirm",
           "jobs": 20
         },
         {
           "company": "Boeing",
           "jobs": 20
+        },
+        {
+          "company": "MongoDB",
+          "jobs": 18
         }
       ],
-      "unique_companies": 224,
-      "avg_jobs_per_company": 5.3,
-      "timestamp": "2026-04-03T12:06:54.935428"
+      "unique_companies": 213,
+      "avg_jobs_per_company": 5.42,
+      "timestamp": "2026-04-03T13:26:45.891620"
     }
   ]
 }
