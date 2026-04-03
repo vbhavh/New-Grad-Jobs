@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T09:31:46.792478",
+    "last_updated": "2026-04-03T10:11:06.962982",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 1175,
+      "total_jobs": 1203,
       "categories": {},
       "tiers": {
-        "faang_plus": 119,
         "unicorn": 656,
-        "other": 400
+        "faang_plus": 119,
+        "other": 428
       },
       "top_companies": [
         {
@@ -1630,6 +1630,10 @@
           "jobs": 40
         },
         {
+          "company": "CVS Health",
+          "jobs": 28
+        },
+        {
           "company": "Lyft",
           "jobs": 25
         },
@@ -1643,20 +1647,16 @@
         },
         {
           "company": "Walmart",
-          "jobs": 22
+          "jobs": 21
         },
         {
           "company": "Affirm",
           "jobs": 20
-        },
-        {
-          "company": "Boeing",
-          "jobs": 20
         }
       ],
-      "unique_companies": 217,
-      "avg_jobs_per_company": 5.41,
-      "timestamp": "2026-04-03T09:31:46.791240"
+      "unique_companies": 220,
+      "avg_jobs_per_company": 5.47,
+      "timestamp": "2026-04-03T10:11:06.962494"
     }
   ]
 }
