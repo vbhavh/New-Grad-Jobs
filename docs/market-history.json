@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T20:22:31.887586",
+    "last_updated": "2026-04-03T20:58:55.874870",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 1155,
+      "total_jobs": 1166,
       "categories": {},
       "tiers": {
-        "faang_plus": 123,
-        "other": 375,
-        "unicorn": 657
+        "unicorn": 658,
+        "faang_plus": 125,
+        "other": 383
       },
       "top_companies": [
         {
@@ -1619,7 +1619,7 @@
         },
         {
           "company": "Anduril",
-          "jobs": 140
+          "jobs": 141
         },
         {
           "company": "Waymo",
@@ -1642,21 +1642,21 @@
           "jobs": 22
         },
         {
-          "company": "Boeing",
-          "jobs": 21
-        },
-        {
           "company": "Affirm",
           "jobs": 20
+        },
+        {
+          "company": "Boeing",
+          "jobs": 19
         },
         {
           "company": "MongoDB",
           "jobs": 18
         }
       ],
-      "unique_companies": 219,
-      "avg_jobs_per_company": 5.27,
-      "timestamp": "2026-04-03T20:22:31.887231"
+      "unique_companies": 218,
+      "avg_jobs_per_company": 5.35,
+      "timestamp": "2026-04-03T20:58:55.873299"
     }
   ]
 }
