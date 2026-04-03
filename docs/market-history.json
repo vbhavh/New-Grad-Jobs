@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T22:21:21.949135",
+    "last_updated": "2026-04-03T22:58:10.598809",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 1169,
+      "total_jobs": 1148,
       "categories": {},
       "tiers": {
-        "unicorn": 658,
-        "faang_plus": 124,
-        "other": 387
+        "other": 370,
+        "unicorn": 657,
+        "faang_plus": 121
       },
       "top_companies": [
         {
@@ -1623,7 +1623,7 @@
         },
         {
           "company": "Waymo",
-          "jobs": 61
+          "jobs": 60
         },
         {
           "company": "Anthropic",
@@ -1639,24 +1639,24 @@
         },
         {
           "company": "NTT DATA",
-          "jobs": 22
+          "jobs": 23
         },
         {
           "company": "Affirm",
           "jobs": 20
         },
         {
-          "company": "Boeing",
-          "jobs": 19
-        },
-        {
           "company": "MongoDB",
           "jobs": 18
+        },
+        {
+          "company": "Stripe",
+          "jobs": 17
         }
       ],
-      "unique_companies": 220,
+      "unique_companies": 216,
       "avg_jobs_per_company": 5.31,
-      "timestamp": "2026-04-03T22:21:21.948707"
+      "timestamp": "2026-04-03T22:58:10.598350"
     }
   ]
 }
