@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T16:08:40.720819",
+    "last_updated": "2026-04-03T16:57:38.135945",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 1158,
+      "total_jobs": 1151,
       "categories": {},
       "tiers": {
-        "other": 373,
+        "other": 364,
         "unicorn": 657,
-        "faang_plus": 128
+        "faang_plus": 130
       },
       "top_companies": [
         {
@@ -1619,23 +1619,23 @@
         },
         {
           "company": "Anduril",
-          "jobs": 139
+          "jobs": 140
         },
         {
           "company": "Waymo",
-          "jobs": 62
+          "jobs": 61
         },
         {
           "company": "Anthropic",
           "jobs": 40
         },
         {
-          "company": "Lyft",
+          "company": "ClickHouse",
           "jobs": 25
         },
         {
-          "company": "ClickHouse",
-          "jobs": 23
+          "company": "Lyft",
+          "jobs": 25
         },
         {
           "company": "NTT DATA",
@@ -1650,13 +1650,13 @@
           "jobs": 20
         },
         {
-          "company": "MongoDB",
-          "jobs": 18
+          "company": "Northrop Grumman",
+          "jobs": 19
         }
       ],
-      "unique_companies": 222,
-      "avg_jobs_per_company": 5.22,
-      "timestamp": "2026-04-03T16:08:40.720446"
+      "unique_companies": 216,
+      "avg_jobs_per_company": 5.33,
+      "timestamp": "2026-04-03T16:57:38.135554"
     }
   ]
 }
